@@ -7,7 +7,7 @@ We have achieved 100% accuracy by training the model using Support Vector Machin
 
 The project can be divided into following parts:
 
-1) Data Visualization using matplotlib and pandas library to plot the multi-variate and univariate plots to get the signifance of each feature and the relation between each attribute.
+1) Data Visualization using matplotlib and pandas library by plotting the multi-variate and univariate plots to get the signifance of each feature and the relation between each attribute.
 (We see that for some attributes, there is a linear relationship i.e. between petal-length and petal-width plots)
 
 2) Splitting the dataset into training and test data. This was achieved using sklearn library. This is a wonderful library and provides a lot of API's for Machine Learning Algorithms.
