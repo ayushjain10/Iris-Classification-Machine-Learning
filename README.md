@@ -15,11 +15,10 @@ The project can be divided into following parts:
 3) For the re-sampling technique, we chose k-fold cross validation method as it is better than Validation set approach and LOOCV.
 
 4) Now performed the below algorithms on the training data and noted the accuracy :
-        ML Algo                       Accuracy on Training data
-  -> Logistic Regression                    94.16%
-  -> K-Nearest Neighbor                     95.83%
-  -> Naive Bayes                            92.5%
-  -> Support Vector Machines                97.5%
+  Logistic Regression         :           94.16%
+  K-Nearest Neighbor          :           95.83%
+  Naive Bayes                 :           92.5%
+  Support Vector Machines     :           97.5%
   
 5) Constructed the model using SVM ML algorithm and tested the accuracy of the model on the test dataset.
 
