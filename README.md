@@ -1,6 +1,8 @@
 # Iris-Machine-Learning-Classification
 Classifying Iris flowers using various ML algorithms such as KNN, Naive Bayes, Logistic Regression, SVM
 
+Dataset obtained from Kaggle.
+
 This is an example of supervised learning where the class label is given in the dataset. We divide the dataset in 80-20 ratio as training data and test data. We train the model using training data and the check the accuracy of the model using test data.
 
 We have achieved 100% accuracy by training the model using Support Vector Machine (SVM). 
