@@ -7,7 +7,7 @@ This is an example of supervised learning where the class label is given in the 
 
 We have achieved 100% accuracy by training the model using Support Vector Machine (SVM). 
 
-The project can be divided into following parts:
+The project is divided into following parts:
 
 1) Data Visualization using matplotlib and pandas library by plotting the multi-variate and univariate plots to get the signifance of each feature and the relation between each attribute.
 (We see that for some attributes, there is a linear relationship i.e. between petal-length and petal-width plots)
